@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"body {\n    background: red;\n    position: relative;\n}\n"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,GAAI;EAChB,QAAQ,EAAE,QAAS;CACtB",
+	"names": []
+}
