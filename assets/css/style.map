@@ -5,8 +5,8 @@
 		"../scss/style.scss"
 	],
 	"sourcesContent": [
-		"body {\n    background: red;\n    position: relative;\n}\n"
+		"/* hello */\nbody {\n    background: green;\n    font-size: 1em;\n}\n// hello\n"
 	],
-	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,GAAI;EAChB,QAAQ,EAAE,QAAS;CACtB",
+	"mappings": "AAAA,WAAW;;AACX,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,KAAM;EAClB,SAAS,EAAE,GAAI;CAClB",
 	"names": []
 }
